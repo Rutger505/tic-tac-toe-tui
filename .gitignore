@@ -1,2 +1,5 @@
 /target
-.idea
+.ideaaur/src/
+aur/pkg/
+aur/tic-tac-toe-tui/
+*.pkg.tar.*
